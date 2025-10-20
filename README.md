@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yusufislam-id&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
 
-- 🔭 I’m currently focusing on Data Engineer
-- 🌱 I’m currently learning various tech that interests me
+- 🔭 I’m Fullstack Developer 
+- 🌱 I’m currently learning Data Engineering
 - 😄 Hobbies: Explore tech update
 
 ---
