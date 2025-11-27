@@ -1,7 +1,13 @@
 ## Hi there 👋 I'm Yusuf.
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)
+<p align="left">
+	<a href="https://www.linkedin.com/in/muhammad-yusuf-islam/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:muhammadyusuf7360@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
 
 Software Engineer with a strong foundation in web programming, database management, and IT infrastructure. Experienced in developing scalable applications using PHP, Python, and MySQL, as well as building web projects with JavaScript. Enthusiastic about digital transformation in the industry and eager to contribute to innovative IT solutions through teamwork, creativity, and continuous learning.
 
@@ -43,14 +49,3 @@ Software Engineer with a strong foundation in web programming, database manageme
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yusufislam-id&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Reach me on
-<p align="left">
-	<a href="https://www.linkedin.com/in/muhammad-yusuf-islam/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="mailto:muhammadyusuf7360@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-
