@@ -11,7 +11,7 @@
 
 Software Engineer with a strong foundation in web programming, database management, and IT infrastructure. Experienced in developing scalable applications using PHP, Python, and MySQL, as well as building web projects with JavaScript. Enthusiastic about digital transformation in the industry and eager to contribute to innovative IT solutions through teamwork, creativity, and continuous learning.
 
-- 🔭 I’m currently working as Software Engineer.
+- 🔭 I’m currently looking for opportunites as Software Engineer.
 - 🌱 I’m currently learning on Data Technology such as Data Engineering, Data Pipelines, etc.
 - 😄 Hobbies: Explore tech update.
 
