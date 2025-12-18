@@ -32,12 +32,3 @@ Software Engineer with a strong foundation in web programming, database manageme
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
-
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/Yusufislam-id">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yusufislam-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yusufislam-id&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
